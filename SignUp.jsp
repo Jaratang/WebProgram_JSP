@@ -47,7 +47,7 @@
 	<form action="SignUp_Check.jsp" name="person_info" method="post" 
 	onsubmit="return checkTest()"> 
 		<fieldset style="width:330px">	
-			<legend> 개인 정보 입력</legend><p> 
+			<legend> 회원가입 </legend><p> 
 			
 			ID(아이디) <br>
 			<input type="text" name="p_id" size="16"><p>
